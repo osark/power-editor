@@ -1,0 +1,8 @@
+requirements:
+  modules:
+    - node
+    - field
+name: 'Landing Page'
+id: node.type.page
+machine_name: page
+

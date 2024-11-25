@@ -1,0 +1,8 @@
+requirements:
+  modules:
+    - node
+    - field
+name: 'Basic Page'
+id: node.type.basic_page
+machine_name: basic_page
+

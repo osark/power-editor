@@ -1,0 +1,13 @@
+module:
+  actions: 0
+  bulk_update: 0
+  consumer: 0
+  consumer_server: 0
+  consumer_client: 0
+  field: 0
+  node: 0
+  views: 0
+  yoasta_seo: 0
+theme:
+  arkdev: 0
+  arkdev_os: 0

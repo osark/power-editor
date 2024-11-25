@@ -1,0 +1,4 @@
+debug: false
+display_query: true
+preview: true
+default_cache: 3000

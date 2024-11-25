@@ -1,0 +1,6 @@
+additional_settings:
+  default_field:
+    - field_yoast_seo
+    - field_meta_tags
+enable_revision: true
+enable_translation: true

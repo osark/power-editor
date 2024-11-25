@@ -1,0 +1,5 @@
+consumer_retry: 5
+consumer_security: 'tls'
+user:
+  name: 'Consumer'
+  pass: 'GoConsumeAction'
